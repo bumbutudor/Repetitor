@@ -1,0 +1,13 @@
+src/
+│
+├── ui/                (Codul pentru interfața utilizatorului)
+│
+├── models/            (Modelele, cum ar fi Problem, Solution etc.)
+│
+├── generators/         (Logica de generare a problemelor)
+│
+├── solvers/           (Logica de rezolvare a problemelor)
+│
+└── nlp/               (Codul legat de procesarea limbajului natural)
+    ├── Interpreter.java
+    └── ... (alte clase legate de NLP)
